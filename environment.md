@@ -4,6 +4,13 @@
 3. Операционная система: Windows 10. Покрытие 66,37% (https://gs.statcounter.com/windows-version-market-share/desktop/russian-federation/#monthly-202201-202301-bar)
 
 #MOBILE (Android)
-1. Проверка проводится в 6 браузерах: Google Chrome, Яндекс.Браузер, Android Browser, Samsung Internet, MIUI browser, Opera. Покрытие 98.74% (https://radar.yandex.ru/browsers?group=quarter&device-category=5&platform=2&selected_rows=Ct58LP%252CRysHuf%252C%252BjXhkh%252CkCujza%252C%252Fl27zq%252C2kuSN7%252Cs%252FDH9r%252CTRNLwH)
-2. Разрешение экрана:
-3. Операционная система:
+1. Устройство:
+2. Проверка проводится в 6 браузерах: Google Chrome, Яндекс.Браузер, Android Browser, Samsung Internet, MIUI browser, Opera. Покрытие 98.74% (https://radar.yandex.ru/browsers?group=quarter&device-category=5&platform=2&selected_rows=Ct58LP%252CRysHuf%252C%252BjXhkh%252CkCujza%252C%252Fl27zq%252C2kuSN7%252Cs%252FDH9r%252CTRNLwH)
+3. Разрешение экрана:
+4. Операционная система:
+
+#MOBILE (iOS)
+1. Устройство:
+2. Проверка проводится в 6 браузерах:
+3. Разрешение экрана:
+4. Операционная система:
